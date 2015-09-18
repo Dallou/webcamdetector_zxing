@@ -1,0 +1,30 @@
+<!-- JNLP File-->
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost/Finale/" href="WebcamQRCode_finale.jnlp">
+    <information>
+        <title> Barcodes Scanner</title>
+        <vendor>Inconnue</vendor>
+        <description> Application permettant de détecter un code bar ou un QR Code à l'aide d'une webcam</description>
+        <homepage href="index.html" />
+        <offline-allowed/>
+    </information>
+    
+    <security>
+    	<all-permissions/>
+    </security>
+     
+     <!-- Application Resources -->
+    <resources>
+        <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="WebcamQRCode_finale.jar" main="true" />
+    </resources>
+    
+    <application-desc
+         name=" Barcodes Detector"
+         main-class="WebcamQRCodeExample"
+         width="1000"
+         height="500">
+     </application-desc>
+     <update check="always"/>
+</jnlp>
+  
