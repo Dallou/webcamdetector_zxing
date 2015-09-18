@@ -5,11 +5,11 @@ Webcamdetector_Zxing is a barcode-scanner entirely written in Java and implement
 
 # How does it work ?
 
-![ScreenShot](https://raw.github.com/{Dallou}/webcamdetector_zxing/{master}/{Zxingbis/img/site.png})
+![ScreenShot](https://raw.github.com/Dallou/webcamdetector_zxing/master/Zxingbis/img/site.png)
 
 Click on the button and open the .jnlp file.
 
-![ScreenShot](https://raw.github.com/{Dallou}/webcamdetector_zxing/{master}/{Zxingbis/img/run.png})
+![ScreenShot](https://raw.github.com/Dallou/webcamdetector_zxing/master/Zxingbis/img/run.png)
 
 
 
